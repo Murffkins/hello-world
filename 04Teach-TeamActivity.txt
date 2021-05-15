@@ -1,2 +1,3 @@
 Hello, this is for the 04Teach - Team Activity.
 This text is for part two in the activity.
+This text is to simulate a merge conflict for the Stretch Challenge.
